@@ -1,1 +1,7 @@
-a
+{
+  "name": "CREUS",
+  "ticker": "CREUS",
+  "description": "Creus pool",
+  "homepage": "https://google.com",
+  "nonce": "1618680033"
+}
